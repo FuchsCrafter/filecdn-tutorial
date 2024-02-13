@@ -1,5 +1,6 @@
+# This is archived as I'm not planning to make changes to this project
 # filecdn-tutorial
-Files for the tutorial that will come soon on Scratch!
+Files for the tutorial that will come soon to Scratch!
 
 ### Additional code:
 
